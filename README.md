@@ -1,6 +1,6 @@
 # concrete-quality-data-pipeline
 
-An end-to-end data engineering project inspired by a manufacturing quality standardization problem in concrete production.
+An end-to-end data engineering project inspired by a real manufacturing quality standardization problem in concrete production.
 
 The project simulates production and quality data from a network of concrete plants, standardizes the data, calculates operational KPIs, and identifies potential acquisition targets using quality, rework, material similarity and geographic proximity.
 
