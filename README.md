@@ -88,8 +88,6 @@ Run the SQL files in order:
 
 The Power BI design and DAX measures are in `powerbi_dashboard/`.
 
-The dashboard is intentionally not supplied as a `.pbix` because the connection metadata is environment-specific.
-
 ## Data note
 
 All company, plant, supplier and production data in this repository are fictional. The project is a portfolio reconstruction of a manufacturing analytics use case and does not contain proprietary historical data.
