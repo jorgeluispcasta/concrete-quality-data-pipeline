@@ -1,0 +1,10 @@
+project_name: concrete-quality-data-pipeline
+cloud_storage:
+  raw_path: dbfs:/FileStore/concrete_quality/raw
+  bronze_path: dbfs:/FileStore/concrete_quality/bronze
+  silver_path: dbfs:/FileStore/concrete_quality/silver
+  gold_path: dbfs:/FileStore/concrete_quality/gold
+snowflake:
+  database: CONCRETE_ANALYTICS
+  raw_schema: RAW
+  analytics_schema: ANALYTICS

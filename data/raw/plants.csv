@@ -1,0 +1,13 @@
+plant_id,plant_name,region,latitude,longitude,annual_capacity_m3,plant_tier,active,ownership_status
+PLT001,North Ridge,North,43.9,-81.2,180000,A,True,Owned
+PLT002,West Valley,West,43.72,-81.65,155000,B,True,Owned
+PLT003,Lakeside,East,43.62,-80.35,210000,A,True,Owned
+PLT004,Pine Creek,North,44.08,-80.72,135000,C,True,Owned
+PLT005,Maple Junction,Central,43.55,-80.1,195000,B,True,Owned
+PLT006,Granite Point,West,43.82,-81.95,165000,A,True,Owned
+PLT007,Cedar Valley,Central,43.38,-80.78,175000,B,True,Target
+PLT008,Riverbend,East,43.95,-79.95,145000,C,True,Target
+PLT009,Ironwood,North,44.22,-81.45,120000,B,True,Target
+PLT010,Southgate,South,43.15,-80.45,225000,A,True,Target
+PLT011,Oak Valley,South,43.28,-79.98,190000,C,True,Target
+PLT012,Bluewater,East,43.78,-79.55,205000,A,True,Target

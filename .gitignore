@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.venv/
+.env
+.DS_Store
+Thumbs.db
+
+# Generated analysis outputs
+/data/analytics/
+
+# Power BI local files
+*.pbix
+*.pbit

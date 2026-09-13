@@ -1,0 +1,14 @@
+material_id,material_group,material_name,supplier,quality_factor,unit_cost
+MAT001,Cement,Portland Type I,CementCo A,0.9,145.0
+MAT002,Cement,Portland Type II,CementCo B,0.86,138.0
+MAT003,Cement,Blended Cement,CementCo C,0.82,130.0
+MAT004,Fine Aggregate,Natural Sand A,AggregateCo A,0.92,32.0
+MAT005,Fine Aggregate,Natural Sand B,AggregateCo B,0.88,29.0
+MAT006,Fine Aggregate,Manufactured Sand,AggregateCo C,0.84,36.0
+MAT007,Coarse Aggregate,Gravel 10mm A,AggregateCo A,0.94,28.0
+MAT008,Coarse Aggregate,Gravel 20mm A,AggregateCo A,0.93,26.0
+MAT009,Coarse Aggregate,Gravel 20mm B,AggregateCo B,0.87,24.0
+MAT010,Clay,Low Plasticity Clay,ClayCo A,0.95,18.0
+MAT011,Clay,Medium Plasticity Clay,ClayCo B,0.78,16.0
+MAT012,Admixture,Water Reducer,ChemCo A,0.96,2.8
+MAT013,Admixture,Accelerator,ChemCo B,0.91,3.6
